@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name on_edge)(type KiCad)(uri ${OSF_LIB_DIR}/put_on_edge/on_edge.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "on_edge")(type "KiCad")(uri "C:/git/osf/b087_SPI_CAN_controller_MCP2515/put_on_edge/on_edge.pretty")(options "")(descr ""))
 )
